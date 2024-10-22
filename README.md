@@ -1,21 +1,109 @@
-<h1 align="center">Hi , I'm R.G. Paman Yuthmika</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h1 align="center">Hi, I'm R.G. Paman Yuthmika 👋</h1>
+<h3 align="center">A Passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamanyuthmika&label=Profile%20views&color=0e75b6&style=flat" alt="pamanyuthmika" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **puthmika@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/r.g. paman yuthmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r.g. paman yuthmika" height="30" width="40" /></a>
-<a href="https://instagram.com/paman_yuthmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paman_yuthmika" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&width=600&lines=Welcome+to+My+GitHub+Profile!;Frontend+Developer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamanyuthmika&show_icons=true&locale=en&layout=compact" alt="pamanyuthmika" /></p>
+<p align="center">
+  <img align="center" width="100%" src="https://your-custom-banner-url" alt="Welcome Banner" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pamanyuthmika&" alt="pamanyuthmika" /></p>
+---
+
+<h2 align="center">👨‍💻 About Me:</h2>
+<p align="center">
+  I'm a dedicated frontend developer with a passion for creating engaging and dynamic user interfaces. I'm constantly learning and improving my skills in web development, mobile apps, and UI/UX design.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611p1umdwvn2riohavi91ucs2uhg19uti176lb2iyq7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
+</p>
+
+---
+
+<h2 align="left">🌍 Connect with Me:</h2>
+<p align="center">
+  <a href="https://fb.com/r.g.pamanyuthmika" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/paman_yuthmika" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:puthmika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">⚒️ Languages and Tools:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="50" width="150" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="50" width="150" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="50" width="150" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" width="150" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50" width="150" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" height="50" width="150" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="50" width="150" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="50" width="150" />
+</p>
+
+
+---
+
+<h2 align="left">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pamanyuthmika&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamanyuthmika&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="left">🔥 GitHub Streak:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamanyuthmika&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF1bWR3dm4ycmlvaGF2aTkxdWNzMnVoZzE5dXRpMTc2bGIyaXlxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250px" alt="Coding GIF"/>
+ 
+</p>
+
+---
+
+<h2 align="left">🏆 GitHub Trophies:</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pamanyuthmika&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="left">💼 Recent Projects:</h2>
+<p align="center">
+  <a href="https://github.com/pamanyuthmika/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-Frontend-20232A?style=for-the-badge&logo=github" alt="Project 1" />
+  </a>
+  <a href="https://github.com/pamanyuthmika/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-Backend-43853D?style=for-the-badge&logo=github" alt="Project 2" />
+  </a>
+  <a href="https://github.com/pamanyuthmika/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-Fullstack-4CAF50?style=for-the-badge&logo=github" alt="Project 3" />
+  </a>
+</p>
+
+---
+
+
+
+
